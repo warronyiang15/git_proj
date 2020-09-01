@@ -1,2 +1,8 @@
-
-asdfas
+now i am changing more 
+int main()
+{
+	int git = 0;
+	int hub = 1;
+	cout << git + hub << endl; 
+	return;
+}
